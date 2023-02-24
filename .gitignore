@@ -1,0 +1,9 @@
+#Logs
+Logs
+*.Logs
+npm-debug.log*
+
+#Dependency direcitons
+node_modules/
+
+#Runtime data
